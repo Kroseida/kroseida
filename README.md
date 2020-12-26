@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
 
-- 🔭 I’m currently working on **Liuu**
+- 🔭 I’m currently working on **flow-up**
 
 - 💬 Ask me about **Java, JavaScript, .NET**
 
