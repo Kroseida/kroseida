@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
 
-- 🔭 I’m currently working on [flow-up](https://github.com/Kroseida/flow-up)
-
 - 🤝 I’m looking for help with [restjx](https://github.com/Kroseida/restjx)
 
 - 💬 Ask me about **Java, JavaScript, .NET**
