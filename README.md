@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
 
-- 💬 Ask me about **Java, JavaScript, .NET**
+- 💬 Ask me about **Java, TypeScript, .NET, GoLang**
 
 - 📫 How to reach me **kroseida@gmail.com**
 
