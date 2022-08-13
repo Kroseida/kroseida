@@ -1,6 +1,7 @@
 <h3 align="center">Backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kroseida&label=Profile%20views&color=0e75b6&style=flat" alt="kroseida" /> </p>
+<p align="left"> <img src="ttps://github.com/Kroseida/tracked/actions/workflows/release.yml/badge.svg" alt="kroseida" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
 
