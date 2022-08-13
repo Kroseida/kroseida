@@ -1,8 +1,8 @@
 <h3 align="center">Backend developer from Germany</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kroseida&show_icons=true&locale=en" alt="kroseida" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kroseida&show_icons=true&locale=en" alt="kroseida" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kroseida&show_icons=true&locale=en&layout=compact" alt="kroseida" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kroseida&show_icons=true&locale=en&layout=compact" alt="kroseida" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kroseida&" alt="kroseida" />
 
