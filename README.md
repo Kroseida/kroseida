@@ -3,7 +3,6 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kroseida&" alt="kroseida" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kroseida&show_icons=true&locale=en" alt="kroseida" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kroseida&show_icons=true&locale=en&layout=compact" alt="kroseida" />
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
