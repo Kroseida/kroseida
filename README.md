@@ -3,7 +3,6 @@
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=kroseida&" alt="kroseida" />
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=kroseida&show_icons=true&locale=en" alt="kroseida" />
 
-<br>
 <hr>
 <br>
 
