@@ -8,11 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroseida" alt="kroseida" /></a> </p>
 
-- 🔭 I’m currently working on [Tracked](https://github.com/Kroseida/tracked/) [![tag](https://github.com/Kroseida/tracked/actions/workflows/release.yml/badge.svg)](https://github.com/Kroseida/tracked/actions/workflows/release.yml)
-
-
-- 🌱 I’m currently learning **Vitest**
-
 - 🤝 I’m looking for help with [Tracked](https://github.com/Kroseida/tracked/)
 
 - 💬 Ask me about **Java, JavaScript and .NET**
